@@ -1,13 +1,13 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "Aura",
+    "name": "github-BariumSodiumSodium-aura",
+    "description": "A sophisticated night scene.",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "BariumSodiumSodium (https://github.com/BariumSodiumSodium)",
+    "homepage": "https://github.com/BariumSodiumSodium/aura",
     "engines": {
-        "brackets": ">=2.0.0"
+        "brackets": ">=3.0.0"
     },
     "categories": "demo",
     "keywords": [
@@ -18,3 +18,4 @@
         "dark": true
     }
 }
+
